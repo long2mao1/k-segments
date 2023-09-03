@@ -1,4 +1,4 @@
-# Time Series Based Resource Allocation
+# Predicting Dynamic Memory Requirements for Scientific Workflow Tasks
 ## Install
 
 ```
