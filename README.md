@@ -6,7 +6,7 @@
 pip install jupyterlab
 pip install -r requirements.txt
 ```
-### Download traces
+### Download Traces
 
   [k-segments-traces](https://github.com/long2mao1/k-segments-traces)
 
