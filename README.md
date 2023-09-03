@@ -1,11 +1,18 @@
 # Predicting Dynamic Memory Requirements for Scientific Workflow Tasks
-## Install
+## Getting Started
 
+### Installation
 ```
 pip install jupyterlab
 pip install -r requirements.txt
-jupyter lab
+```
+### Download traces
+
+  [k-segments-traces](https://github.com/long2mao1/k-segments-traces)
+
+### Start Environment
+```
+jupyter-lab
 ```
 
-## Download Data
-[Google Drive](https://drive.google.com/file/d/1oetouvL3n6mxRgigPtnH9FO3VnSDSjL7/view?usp=sharing)
+Open `simulation.ipynb`
